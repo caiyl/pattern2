@@ -3,7 +3,7 @@ package singleton;
 /**
  * Created by caiyl on 2016/12/18.
  *
- * 懒汉式单例，双重锁定，效率高，而且是正确的写法
+ * 懒汉式单例，双重锁定
  */
 public class LazySingleton2 {
 
