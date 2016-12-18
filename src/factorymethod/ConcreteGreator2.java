@@ -2,7 +2,7 @@ package factorymethod;
 
 /**
  * Created by caiyl on 2016/12/17.
- * 具体工厂角色ConcreteGreator2
+ * 鍏蜂綋宸ュ巶瑙掕壊ConcreteGreator2
  */
 public class ConcreteGreator2 implements Greator{
 

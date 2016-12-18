@@ -2,7 +2,7 @@ package factorymethod;
 
 /**
  * Created by caiyl on 2016/12/17.
- * 具体产品角色ConcreteProduct1
+ * 鍏蜂綋浜у搧瑙掕壊ConcreteProduct1
  */
 public class ConcreteProduct1 implements Product {
 }

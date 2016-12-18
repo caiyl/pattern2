@@ -3,7 +3,7 @@ package simplefactory;
 /**
  * Created by caiyl on 2016/12/17.
  *
- * ¾ßÌå²úÆ·£¨ConcreteProduct)½ÇÉ«£º¹¤³§·½·¨Ä£Ê½Ëù´´½¨µÄ¶ÔÏó¶¼ÊÇÕâ¸ö½ÇÉ«µÄÊµÀı¡£
+ * å…·ä½“äº§å“ï¼ˆConcreteProduct)è§’è‰²ï¼šå·¥å‚æ–¹æ³•æ¨¡å¼æ‰€åˆ›å»ºçš„å¯¹è±¡éƒ½æ˜¯è¿™ä¸ªè§’è‰²çš„å®ä¾‹ã€‚
  */
 public class ConcreteProduct implements Product {
 }
